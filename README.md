@@ -97,7 +97,7 @@
 ```
 例如：
   
-  https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/master/Rules/Media/ForeignMedia.list 
+  [https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/master/Rules/Media/ForeignMedia.list](https://raw.githubusercontent.com/ligengying/Rules-For-Quantumult-X/master/Rules/Services/OpenAI.list)
   此为浏览器地址栏中获取到的链接
 
 ```
